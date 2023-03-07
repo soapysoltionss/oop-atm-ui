@@ -14,7 +14,7 @@ public class startApplication extends Application {
     Scene welcomePage, cardTerminalPage, enterPinNoPage, mainMenuPage, depositMoney1Page, depositMoney2Page, depositMoney3Page;
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(startApplication.class.getResource("enterPinNoPage.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(startApplication.class.getResource("mainMenuPage.fxml"));
         Scene welcomePage = new Scene(fxmlLoader.load(),600,400);
         welcomePage.addEventFilter(MouseEvent.MOUSE_PRESSED, new EventHandler<MouseEvent>() {
             @Override
