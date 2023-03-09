@@ -21,7 +21,7 @@
             <children>
                 <Button layoutX="199.0" layoutY="75.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="202.0" text="Button" AnchorPane.leftAnchor="199.0" />
                 <Label layoutX="181.0" layoutY="79.0" text="1." AnchorPane.leftAnchor="181.0" />
-                <Label layoutX="191.0" layoutY="38.0" text="Please choose account to deposit to:" AnchorPane.leftAnchor="191.0" />
+                <Label layoutX="191.0" layoutY="38.0" text="Please choose account to withdraw from:" AnchorPane.leftAnchor="191.0" />
             </children></AnchorPane>
     </center>
 </BorderPane>

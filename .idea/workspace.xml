@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2226cd0b-b980-44c1-b3ec-b5b864abcec7" name="Changes" comment="UI add enterPinNoPage.fxml and mainMenuPage and controller and rename pages">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/amountDepositPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/chooseAccountDepositPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/confirmDepositPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/waitingPage.fxml" afterDir="false" />
+    <list default="true" id="2226cd0b-b980-44c1-b3ec-b5b864abcec7" name="Changes" comment="UI add other fxml pages for deposit, withdraw, update">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/chooseAccountWithdrawPage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/oopatmproject/startApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/oopatmproject/startApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/mainMenuPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/mainMenuPage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/welcomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/welcomePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/amountDepositPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/amountDepositPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/chooseAccountDepositPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/chooseAccountDepositPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/confirmDepositPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/oopatmproject/confirmDepositPage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,15 +64,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/super/IdeaProjects/OOPATMProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/super/IdeaProjects/Lab9Qn1",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\super\IdeaProjects\OOPATMProject\src\main\resources\com\example\oopatmproject" />
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677814744920</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UI add other fxml pages for deposit, withdraw, update">
+      <created>1678174537496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678174537496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UI v1" />
     <MESSAGE value="UI add enterPinNoPage.fxml and mainMenuPage and controller and rename pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI add enterPinNoPage.fxml and mainMenuPage and controller and rename pages" />
+    <MESSAGE value="UI add other fxml pages for deposit, withdraw, update" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI add other fxml pages for deposit, withdraw, update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
