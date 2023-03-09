@@ -18,7 +18,7 @@
         <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
             <children>
                 <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="200.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true" />
-                <Button layoutX="164.0" layoutY="224.0" onAction="#toEnterPinNoPage" text="Put amount to deposit in the deposit box below." />
+                <Button layoutX="164.0" layoutY="224.0" onAction="#toDepositConfirmPage" text="Put amount to deposit in the deposit box below." />
             </children></AnchorPane>
     </center>
     <bottom>

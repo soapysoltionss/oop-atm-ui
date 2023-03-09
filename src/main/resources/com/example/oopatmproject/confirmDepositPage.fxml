@@ -23,8 +23,8 @@
     <bottom>
         <AnchorPane prefHeight="80.0" prefWidth="600.0" BorderPane.alignment="CENTER">
          <children>
-                <Button layoutX="511.0" layoutY="40.0" onAction="#toEnterPinNoPage" prefHeight="26.0" prefWidth="74.0" text="Confirm" />
-            <Button layoutX="14.0" layoutY="40.0" onAction="#toEnterPinNoPage" prefHeight="26.0" prefWidth="74.0" text="Retry" />
+                <Button layoutX="511.0" layoutY="40.0" onAction="#toDepositFinalPage" prefHeight="26.0" prefWidth="74.0" text="Confirm" />
+            <Button layoutX="14.0" layoutY="40.0" onAction="#toDepositAmtPage" prefHeight="26.0" prefWidth="74.0" text="Retry" />
          </children></AnchorPane>
     </bottom>
 </BorderPane>

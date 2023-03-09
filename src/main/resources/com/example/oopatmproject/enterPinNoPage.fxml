@@ -2,9 +2,9 @@
 
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.TextField?>
 
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.oopatmproject.controller">
    <top>
@@ -18,8 +18,8 @@
       <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
             <Label layoutX="227.0" layoutY="121.0" text="Enter Pin Number:" />
-            <TextArea layoutX="227.0" layoutY="139.0" minHeight="30.0" minWidth="146.0" prefHeight="30.0" prefWidth="146.0" />
-            <Button layoutX="389.0" layoutY="142.0" mnemonicParsing="false" text="Enter" onAction="#toDepositAccPage"/>
+            <TextField fx:id="pinTxt" layoutX="227.0" layoutY="139.0" minHeight="30.0" minWidth="146.0" prefHeight="30.0" prefWidth="146.0" />
+            <Button layoutX="389.0" layoutY="142.0" mnemonicParsing="false" text="Enter" onAction="#toMainMenuPage"/>
          </children></AnchorPane>
    </center>
    <bottom>
